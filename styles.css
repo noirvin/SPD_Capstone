@@ -1,0 +1,10 @@
+body {
+  background: url('https://mk0musicianwaveddwsx.kinstacdn.com/wp-content/uploads/2018/07/music-collaboration-website.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+div.CTA {
+     color: white;
+}
